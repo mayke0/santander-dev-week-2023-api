@@ -31,4 +31,4 @@ tasks.jar {
 
 tasks.named('test') {
   useJUnitPlatform()
-}
+} 
